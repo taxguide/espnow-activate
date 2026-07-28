@@ -1,16 +1,16 @@
 ESPN.com/Activate – Enter TV Code & Start Streaming
 ===================================================
 
-If your TV displays an ESPN activation code, you can quickly link your device by visiting **ESPN.com/Activate**. Open the ESPN app on your Smart TV or streaming device, sign in with your TV provider or ESPN account, and enter the activation code shown on your TV screen. Once the code is verified, your device will be activated, giving you instant access to live sports, ESPN+, highlights, news, and exclusive events.
+If your TV displays an ESPN activation code, you can quickly link your device by visiting `ESPN.com/Activate <https://es.redircoms.com>`__. Open the ESPN app on your Smart TV or streaming device, sign in with your TV provider or ESPN account, and enter the activation code shown on your TV screen. Once the code is verified, your device will be activated, giving you instant access to live sports, ESPN+, highlights, news, and exclusive events.
 
 How to Activate ESPN Using ESPN.com/Activate
---------------------------------------------
+---------------------------------------------------------------------------
 
 Follow these simple steps:
 
 #. Open the **ESPN** app on your Smart TV or streaming device.
 #. Select **Log In** to display the TV activation code.
-#. On your phone, tablet, or computer, visit **ESPN.com/Activate**.
+#. On your phone, tablet, or computer, visit `ESPN.com/Activate <https://es.redircoms.com>`__.
 #. Sign in with your ESPN account or your participating TV provider.
 #. Enter the activation code exactly as shown on your TV.
 #. Click **Continue** or **Activate**.
@@ -29,4 +29,3 @@ If you're having trouble activating your device, try these quick fixes:
 * Check that your internet connection is stable.
 * Update the ESPN app to the latest version.
 * Restart your TV or streaming device and try again.
-
